@@ -322,4 +322,3 @@ Write-Host "See current directory for an *********appinventory.csv report." -For
 Write-Host "==============================================================" 
 
 
-#write a separate script to just export all the user and group assignments and all the OAuth2 assignments.
